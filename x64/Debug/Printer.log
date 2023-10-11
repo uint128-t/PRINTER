@@ -1,6 +1,0 @@
-﻿  Source.cpp
-D:\Coding\Win32\Printer\Source.cpp(23,26): warning C4018: '<': signed/unsigned mismatch
-D:\Coding\Win32\Printer\Source.cpp(78,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\Coding\Win32\Printer\Source.cpp(115,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-D:\Coding\Win32\Printer\Source.cpp(156,10): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
-  Printer.vcxproj -> D:\Coding\Win32\Printer\x64\Debug\Printer.exe
